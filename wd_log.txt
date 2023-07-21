@@ -1,4 +1,0 @@
-[2023-07-21:23:05:23 WD-TabNine INFO] Migrating configuration properties if necessary...
-[2023-07-21:23:05:23 WD-TabNine INFO] starting heartbeat loop for watchdog
-[2023-07-21:23:05:23 WD-TabNine INFO] watching new process 8847-TabNine
-[2023-07-21:23:05:23 WD-TabNine INFO] watching new process 8877-TabNine
